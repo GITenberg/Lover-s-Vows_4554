@@ -1,0 +1,34 @@
+_repo: Lover-s-Vows_4554
+creator:
+  authors:
+  - agent_name: Inchbald, Mrs.
+    alias: Inchbald, Elizabeth Simpson
+    birthdate: 1753
+    deathdate: 1821
+    gutenberg_agent_id: '1305'
+    url: http://www.gutenberg.org/2009/agents/1305
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Inchbald
+  - agent_name: Kotzebue, August von
+    aliases:
+    - Von Kotzebue, August
+    - Kotzebue, A. von (August)
+    - Kotzebue, August Friedrich Ferdinand von
+    birthdate: 1761
+    deathdate: 1819
+    gutenberg_agent_id: '1502'
+    url: http://www.gutenberg.org/2009/agents/1502
+    wikipedia: http://en.wikipedia.org/wiki/August_von_Kotzebue
+description: ''
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4554'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German drama -- Translations into English'
+- !lcc 'PT'
+title: Lover's Vows
+url: http://www.gutenberg.org/ebooks/4554
